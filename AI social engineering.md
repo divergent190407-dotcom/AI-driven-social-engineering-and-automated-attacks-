@@ -1,5 +1,6 @@
+- https://www.wiz.io/
 - Think of a social engineering where AI is being used, easy right. But we can corporate AI to do a lot more than just social engineering, from removing the limitation to valid login attempts.
 - So usually, traditional methods include trust and deception, but involving AI can lead to automation, message writing, and building trust using the help of machine learning.
 - Many AI driven social engineering models can impersonate and improve over the tasks using machine learning, and they can actually do it in mass and rapid pace, leading to a different pattern, more reliable for the user and easy to exploit them.AI can wipe the whole information out of the internet , learn the pattern in the market and build something over it.
 - Now, for cloud and security, if we get the way inside the system bypassing the oauth, we are good to go. that is where we trick cloud security. As we know that cloud mostly works on access control and permissions, if we can persuade the developer to give use the access control, or get help from the employee to approve our permission request.
--  
+- AI can also be used for deep fakes and generative audios. For example impersonating someone, using the voice to get access to the details, or to get pass normal defenses. They mostly re4sult in business frauds.
